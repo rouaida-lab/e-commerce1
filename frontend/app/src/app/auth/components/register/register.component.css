@@ -1,0 +1,7 @@
+.error{
+    color: #e24c4c;
+}
+
+  .ng-touched.ng-invalid{
+    border-color: #e24c4c;
+  }
